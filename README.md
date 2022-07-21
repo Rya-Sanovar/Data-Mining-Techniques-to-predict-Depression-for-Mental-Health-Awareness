@@ -23,8 +23,15 @@ find the best algorithm that results in the most accurate classification. Our
 results will be really valuable in addressing key concerns in countering
 depression.
 
-[ For the purpose of this project, we would rely on the following definition of
+> For the purpose of this project, we would rely on the following definition of
 Depression: A mental health disorder characterized by persistent feelings
 of sadness or loss of interest in activities, causing significant impairment in
 daily life. Possible causes include a combination of biological,
-psychological and social sources of distress. ]
+psychological and social sources of distress.
+
+---
+### Contributors:
+- Muskaan Kumar
+- Kushal Mishra
+- Rya Sanovar
+- Shreya Senapaty
